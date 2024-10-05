@@ -15,7 +15,7 @@ const CoreConcepts = () => {
   {/* Example how this code could be shorter */}
         {/* <CoreConcept
     title={CORE_CONCEPTS[1].title}
-    description={CORE_CONCEPTS[1].description}.
+    description={CORE_CONCEPTS[1].description}. .
     image={CORE_CONCEPTS[1].image}
   /> */}
         {/* <CoreConcept
