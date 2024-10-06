@@ -11,7 +11,7 @@ const CoreConcepts = () => {
           <CoreConcept key={item.title} {...item} />
         ))}
 
-        {/* <CoreConcept {...CORE_CONCEPTS[0]} />
+        {/* <CoreConcept {...CORE_CONCEPTS[0]} />.
   {/* Example how this code could be shorter */}
         {/* <CoreConcept
     title={CORE_CONCEPTS[1].title}
